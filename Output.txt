@@ -1,0 +1,6 @@
+Id                  Name                          Email                         Phone               Bill                
+1                   Nguyen Van A                  A@email.com                   0123456789          100000              
+2                   Do Thi B                      B@email.com                   0123456788          300000              
+3                   Le Van C                      C@email.com                   0123456777          500000              
+4                   Pham thi D                    D@email.com                   0123456666          400000              
+5                   Hoang Duc E                   E@email.com                   0123455555          200000              
